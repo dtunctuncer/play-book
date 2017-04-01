@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Play Book</string>
+    <string name="title_play_detail">Play Detail</string>
+    <string name="beginner">Beginner</string>
+    <string name="amateur">Amateur</string>
+    <string name="warrior">Weekend Warrior</string>
+    <string name="advanced">Advanced</string>
+</resources>

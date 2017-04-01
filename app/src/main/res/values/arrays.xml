@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>The SNASA</item>
+        <item>The One Week to Live</item>
+        <item>The Blinde Date</item>
+        <item>The Don\'t Drink That</item>
+        <item>The Terminator</item>
+        <item>The Hot Dude</item>
+        <item>The European</item>
+        <item>The Fireman</item>
+        <item>The Naked Man</item>
+        <item>The My Penis Grants Wishes</item>
+        <item>The Mannequin</item>
+        <item>The Abracadabra</item>
+        <item>The Brian\'s Friend</item>
+        <item>The Ted Mosby</item>
+        <item>The Leo</item>
+        <item>The Bionic Man</item>
+        <item>The Lorenzo Von Matterhorn</item>
+        <item>The area 69</item>
+        <item>The Ghost</item>
+        <item>The Call Barney Stinson</item>
+        <item>The Missing Cat</item>
+        <item>The Barney Identity</item>
+        <item>The Déjà Vu</item>
+        <item>The Fall In Love</item>
+        <item>The I Can Land This Plane</item>
+        <item>The Billionaire</item>
+        <item>The I Can Guess Your Weight</item>
+        <item>The Scuba Diver</item>
+        <item>The Rumspringa</item>
+        <item>The Escaped Convict</item>
+        <item>The Author</item>
+        <item>The Olympian</item>
+        <item>The Robot</item>
+        <item>The I\'m Joining The Marines</item>
+        <item>The Little Orphan Barney</item>
+        <item>The Grandpa Wonka</item>
+        <item>The Shotgun</item>
+        <item>The He\'s Not Comming</item>
+        <item>The Jorge Posada</item>
+        <item>The Anniversary Of My Wife\'s Death</item>
+        <item>The Love At First Sight</item>
+        <item>The Biker</item>
+        <item>The Stanley Cup</item>
+        <item>The Befuddled Puppey Owner</item>
+        <item>The Portrait</item>
+        <item>The Jim Nacho</item>
+        <item>The Confused Inheritor</item>
+        <item>The Other Jonas</item>
+        <item>The Pinocchio Puppy</item>
+        <item>The Duffel Bag</item>
+        <item>The Prince Akeem</item>
+        <item>The Moviegoer</item>
+        <item>The Cool Priest</item>
+        <item>The Rorschach</item>
+        <item>The Cheap Trick</item>
+        <item>The Ballet Defector</item>
+        <item>The Doggie</item>
+        <item>The Au Pair</item>
+        <item>The Lottery</item>
+        <item>The Time Traveler</item>
+        <item>The Vampire</item>
+        <item>The Young Man And The Sea</item>
+        <item>The Project X</item>
+        <item>The Life Guard</item>
+        <item>The Diet Guru</item>
+        <item>The Boy In The Bubble</item>
+        <item>The Mrs. Stinsfire</item>
+        <item>The Bouncer</item>
+        <item>The Trojan Lesbian</item>
+        <item>The Footloose</item>
+        <item>The Grieving Chicks</item>
+        <item>The E Pluribus Unum</item>
+        <item>The Mr. President</item>
+        <item>The Kidney Scheme</item>
+        <item>The Heimlich Maneuver</item>
+        <item>The Ghost Of Christmas Future</item>
+    </string-array>
+    <string-array name="success">
+        <item> 13%% </item>
+        <item> 50%% </item>
+        <item> 22%% </item>
+        <item> 45%% </item>
+        <item> 60%% </item>
+        <item> 100%% </item>
+        <item> 99° Celsius </item>
+        <item> 50%% </item>
+        <item> 66.66-repeating%% </item>
+        <item> 10%% </item>
+        <item> 77%% </item>
+        <item> eh </item>
+        <item> 90%% </item>
+        <item> 5%%… hey, kinda like Ted! </item>
+        <item> 1%%; 2%% when his movie is in theaters </item>
+        <item> 65%% </item>
+        <item> 20%% </item>
+        <item> 66%% </item>
+        <item> 83%% </item>
+        <item> 99%% </item>
+        <item> 50%% </item>
+        <item> 13%%, 74%% if you look like Matt Damon </item>
+        <item> 30%% 30%% </item>
+        <item> 95%% </item>
+        <item> 9%% </item>
+        <item> 100%% </item>
+        <item> 65%% </item>
+        <item> 1%% </item>
+        <item> 80%% </item>
+        <item> 90%% </item>
+        <item> 18%% </item>
+        <item> 50%% </item>
+        <item> 50%% </item>
+        <item> 50%% </item>
+        <item> 10%% </item>
+        <item> similar odds as finding a golden ticket </item>
+        <item> .25%% </item>
+        <item> .5%% </item>
+        <item> 44%% </item>
+        <item> 69%% </item>
+        <item> 10%% </item>
+        <item> 17%% </item>
+        <item> 90%% </item>
+        <item> 80%% </item>
+        <item> 35%% </item>
+        <item> 30%% </item>
+        <item> 33%% </item>
+        <item> 70%% </item>
+        <item> 33%% </item>
+        <item> 8%% </item>
+        <item> 88%% </item>
+        <item> 99%% </item>
+        <item> 33%% </item>
+        <item> 33%% </item>
+        <item> 40%% </item>
+        <item> 7%% </item>
+        <item> 20%% </item>
+        <item> 75%% </item>
+        <item> 45%% </item>
+        <item> 1.21%% </item>
+        <item> pretty high, I would guess </item>
+        <item> depends on whether they\'re biting or not </item>
+        <item> 22–83%% depending on cuteness of monkey </item>
+        <item> 11%% </item>
+        <item> 50%% </item>
+        <item> 1%%, but a fun 1%% </item>
+        <item> 7%% </item>
+        <item> 30%%, 3%% in the rain </item>
+        <item> &lt; 1%% </item>
+        <item> 100%% </item>
+        <item> wish it were 0%% </item>
+        <item> 28%% </item>
+        <item> .0000000001%% </item>
+        <item> 24%% </item>
+        <item> 5%% </item>
+        <item> not good </item>
+    </string-array>
+    <string-array name="attracts">
+        <item> chicks with moon rock for brains </item>
+        <item> natural nurses </item>
+        <item> desperate chicks, pity queens </item>
+        <item> chicks who don\'t like being drugged </item>
+        <item> girls who like bad boys </item>
+        <item> all women </item>
+        <item> chicks who think they\'re way smart </item>
+        <item> all chicks </item>
+        <item> all types </item>
+        <item> romantics, dummies, and oddly, English teachers </item>
+        <item> shoppers </item>
+        <item> easily amused chicks </item>
+        <item> all women </item>
+        <item> perennial bridesmaids, divorcées, girls who like a mess </item>
+        <item> groupies </item>
+        <item> sensual types </item>
+        <item> smartphone-wielding business types </item>
+        <item> sci-fi babes, believers, rural chicks </item>
+        <item> spiritual chicks </item>
+        <item> star lovers </item>
+        <item> animal lovers </item>
+        <item> paranoid types </item>
+        <item> gullible gals </item>
+        <item> all types </item>
+        <item> nervous flyers </item>
+        <item> any woman throughout space and time </item>
+        <item> all women </item>
+        <item> chicks who think they can change dudes, so pretty much all of them </item>
+        <item> \"experienced\" ladies, secular chicks </item>
+        <item> ladies with conjugal visit fantasies </item>
+        <item> bookish chicks </item>
+        <item> patriotic chicks </item>
+        <item> sci-fi chicks, other robots </item>
+        <item> patriotic chicks </item>
+        <item> biological tickers, foster mothers </item>
+        <item> chicks with a sweet tooth </item>
+        <item> beats me… </item>
+        <item> romantics, very recently scorned lovers </item>
+        <item> fame hawks, sports groupies </item>
+        <item> perennial bridesmaids </item>
+        <item> innocent types </item>
+        <item> road chicks, \"bad boy\" hunters </item>
+        <item> sporty chicks but not sports fan chicks </item>
+        <item> animal lovers </item>
+        <item> art-loving chicks, tourists </item>
+        <item> fortune seekers </item>
+        <item> money hunters </item>
+        <item> spotlight leeches </item>
+        <item> gullibles, animal lovers </item>
+        <item> foreign chicks </item>
+        <item> geography lightweights </item>
+        <item> sad chicks </item>
+        <item> repressed churchies </item>
+        <item> superdummies </item>
+        <item> groupies, dummies, big hairies </item>
+        <item> dancer chicks, crazed capitalists </item>
+        <item> fame hunters </item>
+        <item> young foreign chicks </item>
+        <item> money hounds </item>
+        <item> sci-fi chicks, gullible gals </item>
+        <item> chicks who think they\'re still fourteen </item>
+        <item> naughty nauticals </item>
+        <item> animal lovers </item>
+        <item> beach bunnies, college chicks </item>
+        <item> chicks with body image issues, aka all of them: thanks, Barbie! </item>
+        <item> dummies </item>
+        <item> college chicks </item>
+        <item> exclusive chicks </item>
+        <item> lesbians, experimental chicks </item>
+        <item> backward townspeople </item>
+        <item> bereft chicks, an eternity of guilt </item>
+        <item> destiny girls </item>
+        <item> Beltway babes, voters </item>
+        <item> big-hearted chicks who are hopefully also bigbreasted chicks </item>
+        <item> EMT chicks </item>
+        <item> prudish types </item>
+    </string-array>
+    <string-array name="requirements">
+        <item> none, though a helmet won\'t hurt you </item>
+        <item> a hearty cough </item>
+        <item> a single rose </item>
+        <item> good hand-eye coordination </item>
+        <item> dry ice </item>
+        <item> handsome face, swimmer\'s body </item>
+        <item> weird accent </item>
+        <item> a Dalmatian maybe? </item>
+        <item> balls—metaphorically and anatomically speaking </item>
+        <item> flowing robes, scimitar, turban, penis </item>
+        <item> a good suit, patience, strong knees </item>
+        <item> handcuffs, handcuffs key </item>
+        <item> some memorization </item>
+        <item> tuxedo, eyedrops, wedding ring </item>
+        <item> aviator sunglasses, wispy goatee, friends </item>
+        <item> none! </item>
+        <item> basic knowledge of website design </item>
+        <item> a functional flying saucer—just kidding! </item>
+        <item> a few friends </item>
+        <item> good seats at a major sporting event </item>
+        <item> a small travel crate </item>
+        <item> a fancy-looking pen </item>
+        <item> a bro you can count on to screw up </item>
+        <item> patience, open ear, open heart </item>
+        <item> two first-class tickets, makeup, turbulence </item>
+        <item> $1,000,000,000.00 </item>
+        <item> basic math </item>
+        <item> oxygen tank, mask, flippers, wet suit, regular suit (for under the wet one) </item>
+        <item> patchy facial hair, ill-fitting suit, Old Testament name </item>
+        <item> leg irons </item>
+        <item> none! </item>
+        <item> warm-up jacket, oatmeal raisin cookie </item>
+        <item> oil </item>
+        <item> a good thousand-yard stare </item>
+        <item> patience—you only get two cracks at it a year </item>
+        <item> pockets full of candy </item>
+        <item> thick skin—plus it doesn\'t hurt if it\'s at least 2 AM </item>
+        <item> Empire State Building, a dashing, Cary Grantesque mid-Atlantic accent (recommended but not required) </item>
+        <item> have to look kind of athleticish </item>
+        <item> single rose </item>
+        <item> a bro, a boom box </item>
+        <item> leather jacket, helmet </item>
+        <item> tin foil, Sharpie </item>
+        <item> puppy </item>
+        <item> $$, a decent profile </item>
+        <item> a keen ear </item>
+        <item> a doctored will </item>
+        <item> a sense of rhythm </item>
+        <item> dog collar </item>
+        <item> large duffel bag </item>
+        <item> a good wingman </item>
+        <item> a strong stomach </item>
+        <item> clergy shirt, clerical collar, creepy smile </item>
+        <item> ink bottle, white paper, legal pad </item>
+        <item> denim jacket, Cheap Trick patch, hair extensions </item>
+        <item> unitard, believable Russian accent </item>
+        <item> imagination </item>
+        <item> a small collection of children\'s toys </item>
+        <item> lottery ticket, videocassette </item>
+        <item> old-man makeup, two bros </item>
+        <item> Freshmint Tic Tacs, Scotch tape </item>
+        <item> dirty sweater, winter cap, peg leg </item>
+        <item> one chimpanzee, one chimpanzee leash </item>
+        <item> sunscreen, a bro you trust </item>
+        <item> relatively trim physique </item>
+        <item> a giant bubble </item>
+        <item> at suit, old-lady makeup, pince-nez spectacles… maybe some fake pearls? </item>
+        <item> boom box, velvet ropes, clipboard </item>
+        <item> luck </item>
+        <item> dance moves, flour mill, backward town </item>
+        <item> zero integrity </item>
+        <item> patience </item>
+        <item> firm handshake, white teeth, 270 electoral votes </item>
+        <item> hospital bracelet, bro </item>
+        <item> pretzel </item>
+        <item> a day planner and a black cloak, like what the weirdest kid in your high school wore to picture day; must be performed on December 23 </item>
+    </string-array>
+    <string-array name="time">
+        <item> T minus zero! </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> less than a minute </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> a couple hours </item>
+        <item> however long it takes to fashion a scimitar out of cardboard and tin foil </item>
+        <item> none! </item>
+        <item> seconds </item>
+        <item> none! </item>
+        <item> eleven minutes </item>
+        <item> five minutes on DiCaprio\'s IMDb page </item>
+        <item> none! </item>
+        <item> three quarters of a football game </item>
+        <item> none! </item>
+        <item> a round of drinks as you explain the play to your friends </item>
+        <item> one hour </item>
+        <item> hours </item>
+        <item> none </item>
+        <item> a few beers </item>
+        <item> a few months to a year </item>
+        <item> none </item>
+        <item> most likely several lifetimes </item>
+        <item> none! </item>
+        <item> a few years </item>
+        <item> however long it takes to grow a beard </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> four minutes </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> travel to New York </item>
+        <item> two innings </item>
+        <item> none! </item>
+        <item> a couple minutes </item>
+        <item> none! </item>
+        <item> forty-five minutes </item>
+        <item> two hours </item>
+        <item> a couple nights </item>
+        <item> none! </item>
+        <item> a few hours of research </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> forty-five seconds </item>
+        <item> none! </item>
+        <item> about 110 minutes </item>
+        <item> none! </item>
+        <item> forty seconds not counting drying time </item>
+        <item> fifty minutes </item>
+        <item> forty-five minutes, or however long it takes to put on a unitard </item>
+        <item> none! </item>
+        <item> a few hours </item>
+        <item> an hour </item>
+        <item> a good hour </item>
+        <item> however long it takes to tape Tic Tacs to your teeth to make fangs </item>
+        <item> a few days </item>
+        <item> varies due to monkey availability </item>
+        <item> none! </item>
+        <item> none! </item>
+        <item> about an hour to inflate giant bubble </item>
+        <item> one semester </item>
+        <item> a few hours </item>
+        <item> forty-five minutes </item>
+        <item> travel to backward town </item>
+        <item> none… if you have no soul </item>
+        <item> years </item>
+        <item> at least thirty-five years </item>
+        <item> minimal </item>
+        <item> none! </item>
+        <item> cloaking time </item>
+    </string-array>
+    <string-array name="bummers">
+        <item> women dumb enough to belive in \"SNASA\" often don\'t know what NASA is </item>
+        <item> begging the universe to kick you in the nards </item>
+        <item> roses are thorny—ow </item>
+        <item> 35%% chance of getting your ass kicked </item>
+        <item> • have to be relatively in shape\n • being nude in front of dudes\n • high arrest rate </item>
+        <item> not sporting </item>
+        <item> might have to pretend you like soccer—sorry, \"football\" </item>
+        <item> don\'t get to be a real fireman: now, that would be cool </item>
+        <item> 33.33-repeating%% of attempts will be awkward-awkward-repeating </item>
+        <item> may offend some Middle Eastern chicks </item>
+        <item> must stand still even if you have to pee </item>
+        <item> google \"false imprisonment\" </item>
+        <item> \"Which Brian?\" </item>
+        <item> ring shopping ain\'t cheap </item>
+        <item> spending five minutes on DiCaprio\'s IMDb page: look how much morehe\'s done with his life! </item>
+        <item> running into actual veterans may get sweaty or, more likely, bloody </item>
+        <item> basic knowledge of website design </item>
+        <item> may attract a real nutbag </item>
+        <item> owing friends a favor and a round of drinks </item>
+        <item> astronomical wireless bill </item>
+        <item> sneezing and scratching </item>
+        <item> too much running </item>
+        <item> \"A bro you can count on to screw up might screw up by not screwing up.\" Confucius </item>
+        <item> very time-consuming, can be expensive </item>
+        <item> • costly\n • have to sit in coach for part of the flight\n • air travel a mess these days </item>
+        <item> • tax rates\n • signing giant checks for charities leads toserious hand crampage\n • mega yacht takes so long to build, when you finally finish, it\'s already obsolete, ugh! </item>
+        <item> miscalculations can get ugly </item>
+        <item> wet suit can cause skinrash </item>
+        <item> • have to wear ill-fitting, zipperless suit\n • have to hide cell phone\n • did I mention the suit? </item>
+        <item> leg irons can cause mild chafing </item>
+        <item> bookish chicks </item>
+        <item> seasonal play </item>
+        <item> robot voice tough to shake after play </item>
+        <item> • not the most creative play\n • easy to get caught, especially during time of peace\n • possible, in some sort of Pauly Shore scenario, you\'ll actually wind up going to war </item>
+        <item> Mother\'s Day always sneaks up on you </item>
+        <item> might be asked to break into song </item>
+        <item> high slapability factor </item>
+        <item> • numbers game\n• can be time-consuming\n• gets chilly on top of Empire State Building </item>
+        <item> may indirectly attract fantasy baseball dudes </item>
+        <item> too easy? </item>
+        <item> can\'t try it more than once in one location per night </item>
+        <item> talking shop with actual bikers </item>
+        <item> too much arts and crafts for some </item>
+        <item> house-training difficult, frustrating </item>
+        <item> must spend time in a museum </item>
+        <item> have to listen to a chick </item>
+        <item> legalese </item>
+        <item> may attract the underaged </item>
+        <item> fleas, heartworm, hip dysplasia </item>
+        <item> may wind up in some dude\'s trunk </item>
+        <item> might have to explain fictional government\'s laws of succession </item>
+        <item> • patronizing a crappy movie\n • choosing the wrong genre of romantic comedy—such as It\'s Complicated or really anything with Meryl Streep—may limit the talent pool to your mother and her movie group </item>
+        <item> might wind up in hell </item>
+        <item> ink gets messy </item>
+        <item> uh… denim jacket? </item>
+        <item> probably worked better in the 80s </item>
+        <item> developing a sitcom is difficult </item>
+        <item> shopping for children\'s toys can get competitive </item>
+        <item> ironically expensive </item>
+        <item> 1.21%% success rate </item>
+        <item> dressing goth </item>
+        <item> learning to tie knots </item>
+        <item> play does not entail\n • dressing chimp in a tuxedo\n • dressing chimp in a baseball uniform\n • dressing chimp in a tweed cape and deerstalker cap and having him smoke a pipe like he\'s Sherlock Holmes </item>
+        <item> • might wind up with a dude resuscitating you\n • might look a little stupid\n • might die </item>
+        <item> talking about food makes you hungry </item>
+        <item> can get hot inside giant bubble </item>
+        <item> sorority rush procedures confusing </item>
+        <item> scoring with your target not as awesome as watching your favorite artist live </item>
+        <item> adjusting to discrimination </item>
+        <item> backward town </item>
+        <item> • hospital smell\n • hospital food\n • hospital magazine selection </item>
+        <item> hand cramps </item>
+        <item> • kissing babies\n • appearing faithful\n • campaigning is a real bear </item>
+        <item> have to know what the kidney does </item>
+        <item> might accidentally choke to death </item>
+        <item> overwhelming selection of day planners </item>
+    </string-array>
+    <string-array name="plays">
+        <item>1. Pick out a particular dense-looking target… and by \'dense\' I\'m not talking mass over volume.\n\n2. Point to drink and mention that you\'re only allowed to drink Tang up in sapce. When she asks if you\'re an astronaut, immediately shush her. Look around, then say in a hushed tone that you shoudn\'t be telling her this but you\'re actually in a top secret governement space program called Secret NASA… or SNASA.\n\n3. Offer to demostrate what reentry feels like when returning from the smoon.\n</item>
+        <item>1. Set up camp in a public place and start coughing like crazy. Really get a good wheeze going like you\'re trying to breathe through a washcloth or doing an impression of John Goodman tying his shoes.\n\n2. Keep coughing until a viable target approaches and asks what\'s wrong.\n\n3. Fight back tears and tell her it\'s nothing, but then break down and admit that you\'ve only got one week to live.\n\n4. Now tell her the worst part is leaving the earth before ever sharing the intimate company of a woman. Say this with puppy dog eyes and you should be good to go.\n\nNOTE\n\nDon\'t get into specifics about your disease since that gets super depressing super fast. Just deliver the relevant facts that it\'s terminal,noncontagious, and causes your penis to swell to the size and consistency of a county fair zucchini.\n</item>
+        <item>1. Take a single rose into your local bar, approach a chick, and ask,\"Are you Stacy?\" When she shakes her head, repeat the process for every other potential target.\n\n2. After a few rounds, sit down and sulk until one of your targets approaches to ask what\'s wrong. That\'s your cue to say you think your blind date stood you up.\n\n3. After her \"awwww\" and half hug where she takes great care to not let her boobs touch you, start to complain about how tough dating is these days… especially for a billionaire.\n\n4. Sleep with her.\n</item>
+        <item>1. Identify your target and just as she\'s about to sip her drink, sprint over and shout: \"Don\'t drink that! I saw some guy slip something in there.\"\n\n2. When she asks who did it, look around and point to the smallest dude in the room or a bro you want to play a funny prank on.\n\n3. Let her reward you for saving her life.\n</item>
+        <item>1. In the middle of a bar or party crouch down and activate your dry ice.\n\n2. Quickly strip down to the buff.\n\n3. As the ice clears, slowly rise up and walk determinedly toward your target and say, \"I have been sent from the future to protect you.\"\n\n4. Have sex with her.\n</item>
+        <item>1. Be really attractive.\n\n2. Have sex with chicks.\n</item>
+        <item>1. Approach your target and introduce yourself. Talk in a strange accent like you\'ve got an ice cube in your mouth or you\'re Stephen Hawking\'s robo-voice.\n\n2. When she asks where you\'re from, pick a place in Europe that everybody has heard of but probably doesn\'t really exist, like Slovenia or Montevideo* or Belgium.\n\n3. Have sex with her.\n\nWHY DOES THIS WORK?\n\nWomen are conditioned to think that Europeans are more sensitive, stylish, and intelligent than Americans.Apparently they value those qualities.\n\n* Editor\'s note: Montevideo exists in Uruguay, which is in South America, not Europe. Despite maps, almanacs, and an uncomfortable sit-down at the Uruguayan consulate proving otherwise, Barney refuses to acknowledge that Montevideo is not a European country. You try working with him.\n</item>
+        <item>1. Tell your target that you\'re a fireman.\n\n2. Stop, drop, and roll with her.\n\nNOTE\n\nImpersonating a fireman carries with it some very serious risks.\n\n• It\'s probably illegal somehow,even on Halloween.\n\n• A fire could break out or a cat could get stuck in a tree and everybody will expect you to know what to do.\n\n• An actual fireman could catch you pretending to be one and kick your ass.\n\n• You might have to wear suspenders.\n</item>
+        <item>1. Acquire a target and use any legal means necessary to get back to her place. Some popular ploys include\n\n• My DVR exploded. Do you mind if I watch Celebrities Dancing at your place?\n\n• My stupid roommate invited this slut who looks a lot like your junior high nemesis or maybe that bitch who gives you dirty looks at work back to our place. I wish I had a place to hang out for a couple hours…\n\n• After a long day of examining apartments for deadly, odorless, difficult-to-detect-without-specialized-training radon, it sure is nice to relax.\n\n2. Once you\'re back at her place, the second she leaves the room, strip down to the uglies. You\'re basically laying it all out on the table… although don\'t actually lay it all out on the table. That is where she eats, after all.\n\n3. When she returns and sees you rocking your skin suit, I guarantee she will go for it two out of three times. Two out of three times.\n</item>
+        <item>1. Dress up like an Arabian prince and hit up your local bar.\n\n2. Pick out a target and ask if she\'s heard stories about a magic lamp that summons a genie when you rub it. She has. Now tell her that due to an unfortunate magic carpet accident, the genie now resides in your penis.\n\n3. At this point if she asks whether she\'ll be able to ask for more wishes, you\'re good to go.\n</item>
+        <item>1. Sneak into a window display. Assume a comfortable pose. Freeze.\n\n2. Stare out at pedestrians until you see a hottie walk by. This might take a while, so be careful not to lock your legs.\n\n3. Slowly \"come to life,\" knock on the glass, and beckon her inside.\n\n4. Tell her that you\'ve seen her walk by hundreds of times and prayed every night that one day you\'d become real just so you could touch her skin.\n\n5. Touch her skin.\n\n6. Have sex with her. Not in the window display: that\'s probably illegal these days\n</item>
+        <item>1. Approach your target and ask if she likes magic. Disregard her answer and quickly handcuff your hand to her hand.\n\n2. Have her feel up your sleeves to ensure you\'re not hiding the key up there. Then, as fun patter, say, \"Now check down my pants. I\'m only kidding.\" Of course if she actually does go for it, don\'t be an idiot.\n\n3. Start to fumble around and after a moment of panic smack yourself in the head with your conjoined hands and say, \"I may have left the key at home.\"\n\n4. Back at your place \"discover\" the key in the nightstand next to your bed. With any luck you\'ll need those handcuffs again. Okay, a lot of luck.\n</item>
+        <item>1. Approach a chick and say, \"Hey, it\'s great to see you again! I feel terrible but I\'ve forgotten your name.\"\n\n2. She\'ll insist she\'s never met you before. That\'s when you say, \"I\'m Brian\'s friend.\"\n\n3. Embarrassed, she will endeavor to make it up to you—hopefully sex-wise.\n\nWHY DOES THIS WORK?\n\nEvery person alive knows somebody named Brian. And he\'s a pretty good dude.\n</item>
+        <item>1. Put on your tux. Don\'t you look nice? Like you\'re about to meet the queen or assassinate someone? Now mess up your tie, untuck your shirt, and go nuts with the eyedrops until your face looks like it does after watching the end of E.T. (the real E.T., not the neutered, lifeless, \"let\'s replace shotguns with walkie-talkies\" version Spielberg inexcusably released a few years ago. Hang out with George Lucas much?)\n\n2. Choose a conspicuous space in a public venue and let out a few sighs.\n\n3. Take out the wedding ring and stare at it, spin it on the counter, silently curseit… Basically freak out over it like that sickly kid did in The Lord of the Rings.\n\n4. Eventually a woman will take the bait, approach, and ask what\'s wrong. At first, play it off but then quickly admit that you were just left at the altar… left to absorb the humiliating stares of your closest friends and family. You never thought Jen* could do this to you.\n\n5. Pity will drive the bus from there. Just don\'t forget to get off.\n\n* Naming your \"fiancée\" helps sell the ruse. \"Jen\" is a safe albeit familiar choice: studies suggest there are nofewer than 83 million Jens in the United States alone.\n</item>
+        <item>1. Put on your aviator sunglasses—the only accessory known to man that simultaneously raises both your cool and your douche factors.\n\n2. Choose a target and introduce yourself as movie star Leonardo DiCaprio.\n\n3. While she\'s laughing at you, have your friends approach and say:\n\n• \"I loved you in The Basketball Diaries!\"\n\n• \"Hey, when\'s Titanic 2 comingout?\"\n\n• \"You\'ve gotten much better since What\'s Eating Gilbert Grape.\"\n\n4. Now she has to at least consider that you\'re actually Leonardo DiCaprio, and that\'s when you say, \"Well, if you\'ve ever wanted to sleep with Leonardo DiCaprio, now\'s your chance.\n\n5. It just might work.\n</item>
+        <item>1. Introduce yourself to your target and without straining your face put everything you\'ve got into your handshake.\n\n2. When she screams out in pain, quickly apologize: you don\'t know your own strength anymore. You were injured in the war and the military replaced most of your body parts with surplus titanium. Nod your head meaningfully at your crotch vicinity.\n\n3. Wait for her to make the first move.\n</item>
+        <item>1. Think up a unique fake name. Have you got it? Good.\n\n2. Generate a series of websites devoted to the incredible life of your fake persona and upload them to the World Wide Web.\n\nNOTE\n\nWhile you creativity backstory, women find should unbridle your in crafting your keep in mind that the following qualities most attractive: wealth, power, animal loverness. Also, it never hurts to suggest you have an enormous penis.\n\n3. Select your target, preferably someone with a real nice phone, approach her, and say, \"Yeah, it\'s me.\" She\'ll claim she doesn\'t know who you are. Act incredulous and say your fake name slowly and loudly. When she says she\'s still never heard of you, comment on what a refreshing change of pace it is to meet someone who isn\'t after your autograph, your picture, your vast wealth, or your vast junk.\n\n4. Now make a quick exit but be sure to repeat your name again for her.\n\n5. As soon as you\'re gone, she\'ll get out her phone and do an Internet search. As she reads all about your fake persona, she\'ll grow wild with passion.\n\n6. Return a few minutes later, offer to buy her a cup of coffee, and it is on.\n</item>
+        <item>1. Identify your target, position yourself next to her, and start mimicking her every move.\n\n2. At this point she will either get creeped out and leave or get creeped out and ask what the hell you\'re doing. If the latter, you\'re in business.\n\n3. Tell her you\'ve been sent to Earth to learn more about the human species. Emphasize that you mean her no harm. You\'re a peaceful alien like Alf or Chewbacca or Mork but without all that body hair.\n\n4. At this point she will either throw her drink in your face or look amazed. If the latter, you\'re way in business.\n\n5. Now explain that your alien brain doesn\'t understand human reproduction and let her demonstrate in the flesh. With any luck she\'ll also come in peace.\n</item>
+        <item>1. Have your friends dress in black and gather at a local bar to talk about how much they miss you and how they can\'t believe you\'re gone. If they can cry it up a little, that won\'t hurt matters.\n\n2. Enter the bar a little later in a suit and have your friends totally ignore you. Just tell them to act like you do whenever they start talking about their professional goals or personal lives or whatever it is they\'re always yammering on about.\n\n3. Approach your target and ask if she\'s able to see you. When she says yes, act surprised and explain that while it might seem crazy, you think you\'re a ghost.\n\n4. To prove that you\'re \"dead\" and only she can see you, take her over to your friends and perform a few stunts to \"spook\" them.\n\n• Blow on a friend\'s arm and have her shiver.\n\n• Take a friend\'s beer glass, move it all around in front of his face, and have him marvel at the \"floating mug\"!\n\n• Stomp around the table and have them freak out at the sound.\n\n5. Ask your target to speak for you and tell them to move on with their lives.Have your friends protest a little at first:\n\n• \"How can we just move on when the one man who gave us all hope is gone?\"\n\n• \"Who will run the orphanage for sickly children now?\"\n\n• \"But his penis was enormous.\"\n\n6. Once your friends thank her for helping them find closure, quickly transition to your own salvation. Explain that you\'re unable to advance in the afterlife until you experience physical love for one last time. If she\'s not buying it, say, \"Hey, I don\'t make the rules.\"\n</item>
+        <item>1. Obtain tickets to a major sporting event or another program featuring a giant television audience.\n\n2. Make a sign addressed to hot single chicks with your phone number on it and wave it around like your sex life depends on it because it probably does.\n\n3. Women will call, mistaking you for a celebrity despite the fact you displayed no particular talent or ability on television. Hey, it worked for Mario Lopez.\n\n4. Try to convince callers to send you a picture so you don\'t waste your time setting up dates with ugmos or chicks who\'ve been twenty-nine since Saddam Hussein was in power.\n\n5. Have sex with your fans.\n</item>
+        <item>1. Take a stroll around the neighborhood paying particular mind to any and all lamp post flyers. Amid the ads for yard sales, open houses, and drum lessons, you\'re bound to find a flyer for a missing cat. Grab it.\n\n. Visit a local shelter and adopt a cat that looks pretty much like the missing cat.\n\nQ: Is painting spots or stripes on the cat to match the missing one inhumane?\n\nA: That\'s between you and your God.\n\n. Call the owner and deliver her \"cat.\" If the owner\'s hot enough, collect your reward.\n\nWHY DOES THIS WORK?\n\nScience has revealed that 83%% of cat owners are female while 100%% are lonely.\n</item>
+        <item>1. Once you\'ve chosen your target, sprint up to her, hand her the pen, and recite the following lines: \"Quick! Hide this in your bra. It\'s classified microfilm that might jeopardize our national security.\"\n\n2. Take a good hard look to make sure she\'s hidden it well, then sprint out the door.\n\n3. Return twenty minutes later with a little bit of a sweat going. (I\'m hopeful you can think of a physical activity to occupy yourself with during that twenty minutes after peeking down her shirt.)\n\n4. Tell her you\'ve both got to get out of there: they\'re looking for you. You need to go someplace safe to defuse the pen bomb (she\'ll forget that you said microfilm earlier) but you can\'t go to your place because that\'s the first place they\'ll look.\n\n5. Back at her place carefully unclick the pen and then exhale. Tell her she not only saved your life but the lives of your fellow Americans or whatever nationality you are… unless you\'re Russian, because then you\'re the bad guy. Sorry!\n\n6. Enjoy having \"we saved the world\" sex.\n</item>
+        <item>1. Have a wingman choose a play from the book and run it poorly on your target.\n\n2. After he swings and misses, approach the target and run the same play.\n\n3. When she freaks out and says your wingman just tried to run that play, sell him out. Explain that he\'s trying to capitalize on your life: you\'re the real bassist for Cheap Trick or the real Jorge Posada or whatever.\n\n4. After you bond over what a creep your wingman is, it\'s just a hop, skip, and a jump to Laidville.\n</item>
+        <item>1. Approach your target and introduce yourself.\n\n2. Make casual conversation and exchange information so you can meet up at a later date.\n\n3. Over the course of anywhere from a couple weeks to a few months, endeavor to find out what interests and values you have in common. At the same time try to learn what particular observations and gestures make her laugh and smile.\n\n4. As you become increasingly intimate, you might find yourself thinking about her at odd times or buying something for her just because you know she\'ll laugh at how stupid it is. That\'sperfectly okay.\n\n5. Now that you\'re in love, you can bang her and move on to the next conquest!\n</item>
+        <item>1. Buy two first-class tickets on the same flight.\n\n2. Board the plane, sit in one of your seats, and examine the talent as it parades down the aisle in front of you. You might want to cut a couple of eyeholes in your newspaper so you don\'t get caught.\n\n3. Before takeoff walk down the aisle until you find your target. Quietly offer the person sitting next to her your first-class seat. If you need a reason, say the seat is your lucky number or the person won a contest or you want to sit with commoners for a change.\n\n4. At the first hint of turbulence look out the window and say, \"Oh my God, we just lost the camel strut valve.\"\n\n5. Explain that you\'re an off-duty pilot and that losing the camel strut valve is a serious issue. How serious? You landed a plane in this condition once in a simulator but it\'s never been done in real life. The pilots need your help. We all do.\n\n6. March toward the front of the plane and sit in your other first-class seatfor the remainder of the flight. Right before landing, apply some bruise makeup and splash some water on your face as if you\'ve been sweating.\n\n7. After landing stand at the front and nod appreciatively as if the passengers are thanking you. When your target approaches, exit with her and see if you can land that plane too.\n</item>
+        <item>1. Accumulate a billion dollars.\n\n2. Sleep with women.\n</item>
+        <item>1. Approach your target and announce that you can guess her weight.\n\n2. Intrigued, mortified, and paralyzed by her body-image issues, she\'ll want to know your guess.\n\n3. Take what you think she really weighs and subtract twenty-five pounds. Now subtract another five. Give her this number.\n\n4. Have sex with her.\n</item>
+        <item>1. Tell a meddlesome female friend about The Playbook.\n\n2. Run a play on one of her coworkers, making her so angry she steals The Playbook.\n\n3. Put on the scuba suit and tell your friend you\'re going to do one more scam called \"The Scuba Diver\" on the hot girl standing by the bar.\n\n4. Your friend, let\'s call her Lily, goes and talks to the girl and tells her everything about The Playbook.\n\n5. Lily and the target will demand to know how The Scuba Diver works. Take off your mask and give them some spiel about your deep-seated insecurities, which don\'t really exist because let\'s face it, you\'re awesome.\n\n6. Now Lily will feel bad and talk you up to the target until she agrees to go get coffee with you.\n\n7. And it. Is. On.\n</item>
+        <item>1. Grow a beard.\n\n2. Shave out the mustache portion of your beard.\n\n3. Put on your ill-fitting suit but lose the tie and swap the belt for suspenders. Barf.\n\n4. Approach your target and explain that you\'re Amish and are on your rumspringa—your rite of passage. You want to learn more about the English before you return to a life of simple humility.\n\n5. Have sex with her.\n\nWHY DOES THIS WORK?\n\n• Women see you as a clean slate they can mold briefly into their plaything.\n\n• She will assume that you, as a man of faith, have a strong sense of spirituality and therefore care whether she reaches orgasm or not.\n\n• License to slut it up. Since you\'re returning to your Amish community after your rumspringa, there\'s little fear her friends will find out. I mean, you shun technology, so it\'s not like the video she let you take is going to magically appear on the Internet or something. Wink!\n\nNOTE\n\nThe Rumspringa is actually a nondenominational play. In this instance we\'ve used the Amish faith as an example but any religion or group of people with a required sojourn can work. Here are a few rites of passage you can use to hit on chicks.\n\nPEOPLE OR FAITH ⇒ RITE OF PASSAGE\n\nLDS church ⇒ mission\n\nAustralian Aborigines ⇒ walkabout\n\nTheravada Buddhism ⇒ shinbyu\n\nSioux ⇒ vision quest\n\nScientology ⇒ just make something up\n\n</item>
+        <item>1. Approach your target and accidentally knock her purse or phone to the floor. As you stoop to pick it up, pause meaningfully while exposing your leg irons. Make sure she sees them.\n\n2. Quickly, in a whisper, tell her you just escaped and beg her to keep quiet. You were falsely imprisoned for a nonviolent crime and you can\'t go back there. You only broke out to see your newborn daughter but your witch of an ex-wife refused to let you, even though you crawled through a sewer pipe to see her. This is also a good time to inform her that you have since showered.\n\n3. Now that you\'ve proven you\'re a bad boy with a heart of gold, it\'s time to ask if you can \"hole up\" at her place.\n</item>
+        <item>1. Hang around a public place until you find a viable target reading a book.\n\n2. Approach and ask her how she likes it so far, and as she\'s answering, glance at the cover and memorize the author\'s name.\n\n3. If she says she likes it, hold out your hand and introduce yourself as the author.\n\n4. Go back to her place for a speed read.\n\nNOTE\n\nIf the author does that snooty thing of using initials as a first name, abort the mission. There\'s a decent chance the author is either female or dead, either of which would exponentially complicate the play.\n</item>
+        <item>1. Every two years there\'s a three-week period during which the Olympics are relevant. Make sure you are operating within this window.\n\n2. Use masking tape to add a U, S, and A to the back of your warm-up jacket… preferably in that order.\n\n3. Cover the oatmeal raisin cookie in tin foil and attach some ribbon to make it a medal.\n\nQ: Why does it have to be an oatmeal raisin cookie?\n\nA: Because they\'re delicious!\n\n4. Put on your jacket and enter a bar with your silver medal hanging around your neck. As targets approach and inquire about your medal, shrug it off. You hate to talk about it because you just missed winning gold in __________________ (choose an anonymous yet legitimate Olympic event from the list below).\n\n5. Choose a target and mount the podium.\n\nNOTE\n\nIf you\'re running The Olympian in the next five years, you either competed in London 2012 (summer), Sochi 2014 (winter), or Rio de Janeiro 2016 (summer).\n\nWinter Events - Summer Events\n\nski jumping - sailing\n\nfreestyle skiing -table tennis (not recommended)\n\nNordic combined - archery\n\ncurling (not recommended) - judo\n\nbobsled - kayak sprint\n\nskeleton - trampoline\n\nluge - handball\n\nbiathlon - badminton (not recommended)\n\nspeed skating - fencing\n</item>
+        <item>1. Approach your target stiffly… and by that I mean walk with a rigid gait.\n\n2. Move your head around in all kinds of crazy angles while staring at her.\n\n3. If she doesn\'t punch you first, ask he in a monotone voice, \"What is love?\"\n\n4. Before she runs away, explain that you\'re a robot and have just escaped from a secret military base after becoming self-aware. Now you want to understand the confusing hu-mon behavior of intimacy.\n\n5. If she\'s not totally on board yet, inform her that your pneumatic oiling unit fires with a percussion rate of 2,800 blows per minute.</item>
+        <item>1. Offer to buy your target a drink. After she accepts, casually mention you\'re joining the Marines tomorrow.\n\n2. Sleep with her.\n\n3. Join the Marines. Oh, I\'m sorry, did you think you could just help yourself to some military groupieage without nutting up and putting on the uniform as so many brave men and women have before you? Well, guess again, you maggots! The privilege (yes, privilege—it\'s not a God-given right) of tapping some patriotic appreciation ass belongs only to our heroic boys and girls in the Army, Navy, Air Force, Marines, and—as my editor informs me—the Coast Guard. Why? Because they\'ve earned this, Private Ryan. They\'ve earned this.</item>
+        <item>1. On Mother\'s Day or Father\'s Day head out to your local bar. Approach a chick and ask if she remembered to call her mother/ father to wish them a happy Mother\'s/Father\'s Day. When she counters and asks if you called your mother/father, suddenly get a faraway look in your eyes and say, \"I don\'t have a mother/ father.\"\n\n2. Now that she feels like a terrible person, tell her you\'re an orphan— rare these days but, yes, you were raised without parents. That\'s why having a family and being an amazing father someday are the most important things in life to you. Oh, and satisfying a woman and junk like that too.\n\n3. After you have sex with her and never call again, cross your fingers that she doesn\'t wind up with a fatherless child, because that would be cruelly ironic.\n</item>
+        <item>1. Select your target and introduce yourself as (your first name) J. Wonka. Whether she asks or not, nod your head and add, \"As in Willy Wonka. He was my granddaddy.\"\n\n2. Explain how you get all the money and all the candy you want. In fact, you have a four-poster bed made out of gold and chocolate. Invite her to check it out.\n\n3. Enjoy your sugar high.\n</item>
+        <item>1. Approach any viable target.\n\n2. Ask if she\'ll have sex with you.\n\n3. Immediately repeat steps 1 and 2 until someone says yes, you run out of women, or you\'re temporarily blinded by a vodka cran.\n</item>
+        <item>1. Travel to New York and go to the observation deck of the Empire State Building.\n\n2. Walk up to every girl you see and solemnly say, \"He\'s not coming.\"\n\n3. Repeat step 2 until a girl breaks down on your shoulder.\n\n4. Kablammo.\n\nWHY DOES THIS WORK?\n\nFor generations the observation deck of the Empire State Building has been the place for romantic reunions with longestranged lovers. Provided one of the estranged lovers is running a few minutes late, scoring here can be easy pickings.\n</item>
+        <item>1. Waddle into your local bar and approach your target. To help sell the ruse that you\'re a big-league catcher, walk like you\'re balancing a water balloon between your upper thighs or doing the classic \"out of TP\" sprint between bathrooms.\n\n2. Casually mention you\'re a little sore after last night\'s game and, upon prompting, explain that you\'re the catcher for the nearest professional baseball team.\n\nQ : Won\'t she know I\'m not the catcher for the nearest professional baseball team?\n\nA: Nope. Catchers wear masks for most of the game, so they are almost impossible to identify in the real world.\n\n3. Have sex with her.\n\nNOTE\n\nIf you\'re in Canada this will also work with hockey goalies.\n\nQ: But are Canadian women really worth it?\n\nA : Yes. Pamela Anderson is Canadian. But, more important, she was Canadian even back when she was hot. True story.\n</item>
+        <item>1. Sit in a public place and stare longingly at a single rose.\n\n2. When a worthy target approaches, sheepishly admit that today is the anniversary of your wife\'s death. Now you\'ve got her right where you want her*—feeling guilty.\n\n3. Now your target is unknowingly sipping from a lethal cocktail of guilt, pity, and the distinctly feminine assumption that \"this guy was married, therefore he must be a catch.\" All you have to say is \"I don\'t know if I can be alone tonight\" and it is on.\n\nTHE GOLDILOCKS DILEMMA\n\nIn this classic play it\'s likely your target will ask how your wife passed. If a misty \"I don\'t want to talk about it\" doesn\'t satisfy, you may be forced to give a cause of death, but take heed: too vague and she\'ll get suspicious, too detailed and she\'ll lose her lady wood. You need something right in the middle, like one of these:\n\n• scrapbooking accident\n\n• wolverine attack\n\n• surprise oxygen allergy\n\n• juggling mishap (chain saws)\n\n• wasn\'t tall enough to ride roller coaster\n\n• runaway shopping cart\n\n• the bends\n\n• not enough vegetables\n\n• died reaching her eighty-third climax while having sex with you\n\n* Other than dancing on top of your bed in a nurse\'s uniform, of course.\n</item>
+        <item>1. Choose a target with a particularly innocent face.\n\nNOTE\n\n Innocent doesn\'t always mean young. Look for an eye diameter to face diameter ratio no smaller than 1:3. Think Powerpuff Girl.\n\n2. Approach your target but pretend you\'re walking in slow motion. If you\'re worried it won\'t look believable, try doing it with your shoes on halfway.\n\n3. Stare at your target until she starts to speak. Try to mimic exactly what she says, then stop when she stops. Do it again when she resumes talking. This creates the illusion that you\'re so in synch you were going to say the same thing (even though you probably weren\'t going to say, Why are you staring at me, creep?)\n\n4. Cue your bro to fire up Ann Wilson and Mark Reno\'s timeless duet Almost Paradise on the boom box. Have him start at the 2:44 mark so you get to hear the bridge.\n\n5. Just as they hit the chorus, ask your target if she believes in love at first sight.\n\n6. If she does, then she might also believe in bang on first night.\n</item>
+        <item>1. Put on a leather jacket and carry a motorcycle helmet into a bar or party.\n\nNOTE\n\nYou\'ll want a full-face racing-style helmet or a Harley type with maybe some skulls on it. Don\'t go with one of those Speed Racer helmets because chicks will think you\'re either a moped driver or, worse, French.\n\n2. Choose a conspicuous area to display your helmet and wait for a woman to approach and inquire about your hog.\n\n3. If you can\'t take it from there, then I can\'t help you.\n\nCAUTION\n\nPlaying up the motorcycle gang aspect is a high-risk high-reward move that I cannot officially endorse. But if you must, you\'ll need a fake gang name unless you want a group of burly men rearranging your limbs into a suicide shifter, a sissy bar, or any other intimidating-sounding motorcycle part.\n\nMOTORCYCLE GANG NAME GENERATOR\n\nCombine a word from column A with one from column B to find your gang\'s name.\n\nColumn A ⇒ Column B\nDevil ⇒ Bandits\nAngel ⇒ Riders\nMama\'s ⇒ Barbarians\nAsphalt ⇒ Wolves\nUnderworld ⇒ Warlocks\nRoad ⇒ Kings\nHeaven\'s ⇒ Warriors\nLeather ⇒ Invaders\nOutlaw ⇒ Demons\nThunder ⇒ Dogs\n</item>
+        <item>1. Glue or tape a punch bowl to the top of a coffeemaker or lamp. If it\'s roughly the shape of a chess pawn or a bloated toilet plunger, you\'re good to go.\n\n2. Cover your sculpture in tin foil. You are now in possession of the Stanley Cup.\n\n3. Use the Sharpie to blacken out a few teeth—just like you\'d do if there were a play called The Bumpkin (which probably wouldn\'t be very successful… unless you\'d just discovered oil).\n\n4. Carry your trophy into a bar and wait for the ladies to swoon.\n\nWHY DOES THIS WORK?\n\n• All ladies like professional athletes because they are wealthy and in shape but none can tell you what a championship trophy looks like—at least none you want to get with.\n\n• Each member of the champion team gets to possess the Stanley Cup for one day. When you explain this to your target, she will feel even more special that you\'ve chosen to spend time with plain old her.\n\n• Because women are legally required to see the movie The Cutting Edge, every chick is hardwired to think she can turn a tough-guy hockey player into her ice-dancing partner. You now represent the ultimate project.\n</item>
+        <item>1. Pick out a puppy at a local shelter. Aim for the one with the biggest paws and floppiest ears. Studies have shown these are the most significant factors in whether a woman will sleep with a guy in order to hang out with his puppy.\n\n2. Leash up your new best friend and take him to a park or other safe public space. Once you\'ve identified your target, let the puppy loose in her direction and give chase.\n\n3. Your target will help you catch him and immediately fawn all over the puppy because the only thing more attractive to a woman than a puppy is a puppy made out of chocolate diamonds.\n\n4. Admit that you\'re new at this whole dog thing. You were walking by a burning building and saved this little guy and don\'t even know if your home is puppy safe. Maybe she could help you out?\n\n5. When she asks you what his name is, act embarrassed and say, \"No, you\'ll make fun of me.\" When she insists, sigh and say, \"Well, actually, my dog\'s a she. I named her after one of my idols.\" Her: \"Okay, what\'s her name?\" You (dramatic pause, then): \"Oprah.\"\n\n6. Take your target home and let her teach you how to sit and roll over.\n</item>
+        <item>1. Commission a painting of yourself preferably wearing epaulets, holding an elephant gun, or wearing one of those goofy hats that look like a giant velvet chalupa.*\n\nNOTE\n\nBe sure to choose a flattering artist and do yourself a favor by springing for Belgian linen instead of your run-of-the-mill canvas: this is something you\'ll want to display with pride for many years to come.\n\n2. Bribe a museum guard to hang up your portrait, or if you\'re feeling adventurous, sneak in after hours and do it yourself.\n\n3. The next day loiter near the painting until your chosen target approaches. As soon as she does a double take, you\'re off to the races with your choice of opening lines:\n\nA. \"I know, I know. It\'s embarrassing, but yes, I\'m royalty.\"\n\nB. \"That\'s my great-great-grandfather. Jerk only left me three castles.\"\n\nC. Take a long, wistful breath and then, as though your mind is trapped aboard a carousel of longforgotten faces and faded, sepiatoned memories too rich and varied to ever possibly express, sigh and say: \"That was a long, long time ago…\"\n\n* Dibs on \"Velvet Chalupa\" as a nightclub name.\n</item>
+        <item>1. Hover around your target in a noncreepy way.\n\n2. As soon as she expresses approval of anything, say thank you as if you\'re responsible for its creation.\n\nExamples:\n\nTarget: My favorite movie is Gone with the Wind.\n\nYou: Thank you!\n\nTarget: Lisa, I really like your shoes.\n\nYou: Thank you!\n\nTarget: These are great nachos.\n\nYou: Thank you!\n\n3. Next, introduce yourself as Jim _______________ (take whatever she likes as your last name). So, in the last example, you\'d say, \"I\'m Jim Nacho.\"\n\n4. Have sex with her.\n</item>
+        <item>1. Set up camp near your target and look perplexed at a piece of paper.\n\n2. If your target doesn\'t immediately approach, do a lot of sighing and shaking your head. Eventually she\'ll come over and ask what\'s bothering you.\n\n3. Show her your fake will and act confused: \"Why do I owe my recently deceased uncle Steven eighty-three million dollars? That jerk invented cupcakes.\"\n\n4. Make sure the clearest part of your fake will includes the following clause: \"STEVEN JAMES SMITH hereby leaves YOUR NAME HERE a sum of $83,000,000. You read that right, 83 MILLION bucks. That kind of money can buy a pant-load of chocolate diamond kittens.\"\n\n5. After she explains that you\'re owed eighty-three million dollars, celebrate your newfound fortune by having sex with her.\n</item>
+        <item>1. Dress up like a Jonas brother. You have three options:\n\nA. Put on a collared shirt with rolledup sleeves, a skinny necktie, and jeans.\n\nB. Put on white sneakers, a white shirt, and a black vest.\n\nC. Shoot yourself in the head before you\'d ever do A or B.\n\n2. Identify your target and talk loudly in her direction about your little brothers\' world tour, television show, and low-budget summer movie.*\n\n3. After she inquires, tell her that you\'re the other Jonas brother.\n\n4. She\'ll sleep with you because while you\'re close to fame, you\'re not lame. And you should use that line.\n\nNOTE\n\nAt different points throughout history this play was known as The Backstreet Man, The 99 Degrees, and The Slightly Older Kid on the Block. As The Playbook ages, simply replace The Other Jonas with The Other Latest Teen Pop Band.\n\n* I\'m just assuming there\'s one of these.\n</item>
+        <item>1. Wearing nothing more than underwear and a dog collar, perform the following maneuvers within view of your target:\n\n• Loudly breathe out of your mouth.\n\n• Use your leg to scratch your ear.\n\n• Bend over and sniff your privates.\n\n2. If your target approaches, bark at her, and then quickly apologize. In broken, Scooby-Doo–style English explain that you made a wish to become human and it happened… but now you\'re lost.\n\n3. After she takes you home, sneak into her bed and let nature take its course.\n</item>
+        <item>1. Take your duffel bag to the airport and hang around an international flight\'s baggage carousel. Make sure to take note of the departure city.\n\n2. Once you\'ve identified a target, quickly climb in your duffel bag, zip it up, and throw yourself on the belt. Try to guess when you\'re right in front of her and climb out of the bag.\n\nHINT\n\nI recommend patronizing one of the Scandinavian carriers for what I hope are obvious reasons, though it\'s tough to really screw this one up… unless you catch a Lufthansa flight. Nein, danke.\n\n3. Tell her in a pan-European accent that you\'re an international businessman and when you saw her boarding the plane in (departure city), you said you\'d do anything to meet her. Shiver a bit and sheepishly say, \"The baggage compartment was a little chilly.\"\n\n4. See if you can help her overcome her jet lag.\n</item>
+        <item>1. Position yourself near your target and signal your wingman.\n\nHINT\n\nIf you\'re having trouble finding a wingman, Arsenio Hall is probably available.\n\n2. Have him approach you, kneel down, and say, \"I\'m sorry, Your Highness, but I have news from the kingdom.\"\n\n3. Angrily chastise him for addressing you that way in public. You have half a mind to tell your father, the king, about this. Yes, you said \"king.\"\n\n4. Explain to your target that you\'re a prince who has traveled here in search of your future queen and you didn\'t want anyone to know you\'re worth billions because you want someone who wants you for who you are… which, again, happens to be the heir to the throne of a diamond-rich kingdom. And she could eventually be the queen. If she\'s, like, you know, pretty good in bed.\n\n5. Aroused by the possibility of appearing in countless US Weeklys as \"The Prince\'s New Girlfriend,\" your target is now primed to sleep with you.\n</item>
+        <item>1. Pick the most grating romantic comedy in theaters right now and memorize all its cookie-cutter plot points and lousy dialogue.\n\nNOTE\n\nIf you\'re not sure which movie is the crappy chick flick, it\'ll be the one \"starring\" Katherine Heigl or —if she was unavailable for some reason—the one with a poster of a man and a woman shrugging back to back, thumbing at each other as if to say \"This one!\"… which is also very likely a line in the movie, if not the actual title.\n\n2. Go again to the movie (I know), find the hottest solo girl, and sit in her row.\n\nHINT\n\nWalk from the front of the theater toward the back so the light from the previews can help you weed out the uglies.\n\n3. Quietly mouth along to the dialogue in an exaggerated fashion as the movie stumbles from predictable \"my fiancé is a jerk\" moment to cliché \"this new guy and I like the same offbeat music and/or quirky food condiment\" scene.\n\n4. When you catch your target looking your way and marveling at your sensitivity, smile sheepishly and ask if she wants to sit next to you. Later, ask her to sit on you. Boom!\n\nWHY DOES THIS WORK?\n\n• Science says that 83%% of chicks who attend romantic comedies alone are either fresh off a breakup or headed toward one. Either way they\'re wookin pa nub.\n\n• If a woman\'s willing to spend money on this garbage, she\'s probably not very discriminating when it comes to sexual partners.\n\n• Added bonus? She obviously likes punishment.\n</item>
+        <item>1. Toss on a clergy shirt and clerical collar and head to the bars.\n\n2. Position yourself near your target and start downing beers, smoking cigarettes, swearing, catcalling, etc. Basically pretend you\'re in the British parliament.\n\n3. When you catch your target looking at you sideways, point to your collar and say, \"Oh, this? I have a more modern relationship with the Lord.\"\n\n4. Intrigued by your enigmatic combination of piety and rebelliousness, your target will wonder what other sacraments you so wantonly desecrate.\n\n5. Demonstrate while blessing her with pew burns.\n</item>
+        <item>1. Dump some ink on a piece of paper and fold it in half to create a symmetrical design. Repeat the process until you run out of ink or find yourself contemplating drinking the bottle and ending it all because let\'s face it, now you\'re doing arts and crafts to get laid.\n\n2. Approach your target, say you\'re a psych professor at a local university, and ask if she\'ll help with a research project. All she has to do is look at some pictures and react—like she does whenever she visits her grandparents. Only it won\'t smell as weird.\n\n3. As you show her the inkblots, pretend to listen to her responses and take notes on the legal pad.\n\nHINT\n\nDrawing pictures of boobs is an excellent way to make it look like you\'re jotting down notes.\n\n4. After the last inkblot look down at your sheet of boobs and act concerned. If you wear glasses, take them off slowly and pinch your nose. When she asks what\'s wrong, tersely tell her, \"Nothing. Thanks for taking part in the study.\" This will really freak her out and now she\'ll insist you tell her. Explain that in your professional opinion she\'s suffering from a very serious mental disorder: sex deprivation.\n\n5. Obviously there\'s only one way to treat her condition.\n\nWARNING!\n\nIf your target looks at the inkblots and mentions either her father or her brother, there\'s a good chance she could have an actual psychological disorder. If so, you\'ll either have amazing sex or she\'ll try to strangle you. Or both.\n</item>
+        <item>1. Attach the hair extensions to your melon. Affix the Cheap Trick patch to your newly acquired denim jacket. Put it on. Now, believe it or not, you\'re ready to rock.\n\n2. Select your target.\n\nNOTE\n\nIf you\'re struggling to find a winner, aim for the chick with the biggest hair, because as it might very well say in the Bible, \"hair begets hair.\"\n\n3. Position yourself within earshot of your target and, addressing nobody in particular, drop at least one of the following lines:\n\n• \"Always great to meet a fan.\"\n\n• \"Anyone know the yen exchange rate? Our world tour starts tomorrow.\"\n\n• \"The hardest part of designing my guitar-shaped pool was deciding where to position the hot tub.\"\n\n4. Overcome by curiosity, your target will ask who you are, and that\'s when you say, \"I\'m the bass player for Cheap Trick. A major rock band.\" If she doesn\'t believe you, model your patch for her. With any luck she\'ll reciprocate the favor, and you\'ll be out of that denim jacket before you know it.\n\nVARIATIONS\n\nMuch like an actual rock star, you\'ll find you can perform slightly different versions of this number night after night with great success all over the world. Take a trip to Mumbai and you\'re the finger cymbalist for Ravi Shankar. Looking to get ljåid in Stockholm? Why not do so as Ace of Base\'s keytarist? In fact, Europe is probably the best place on earth to pose as a rock star. See The Hasselhoff.\n\nCAUTION\n\nWhile I always encourage a healthy injection of creativity while deceiving women, prudence dictates that you avoid the following musicians:\n\nMUSICIAN ⇒ COMPLICATION\n\nLed Zeppelin\'s drummer ⇒ RIP\n\nanyone from Kiss ⇒ too easy/messy\n\nBilly Idol ⇒ Ted already tried it and failed\n\nPeter Frampton ⇒ voice difficult to emulate\n\nSting ⇒ reputation for tantric sex creates unrealistic endurance expectations\n</item>
+        <item>1. Build a time machine.\n\nNOTE\n\nThis step might put unreasonable constraints on your finances or the laws of physics. If you\'re unable to build one, then try this play where people may not realize the Cold War is over, like Mississippi or Idaho or Sarah Palin\'s living room.\n\n2. Unitard up!\n\n3. Yes, you can stuff a tennis ball canister down there.\n\n4. Approach your target and request political asylum in your best Russian accent. I\'d suggest listening to the stand-up comedy of Yakov Smirnoff for practice except it\'s hard to hear when you\'re shoving a pair of scissors through your ear canal.\n\n5. Tell your target you escaped from your touring ballet company but now you don\'t know what to do with all your grace, flexibility, and superhuman stamina.\n\n6. If you can find your way out of the unitard, have sex with her.\n</item>
+        <item>1. Stare at your target until she looks back at you. Act annoyed and say, \"Yes, yes, it\'s me, (your name).\"\n\n2. Off her quizzical look explain that you were a huge child star and you\'d rather be known for who you are and not the character you played, even if he did make you millions of dollars.\n\n3. When she asks what you starred in, offer some details from the chart of believable-sounding TV characters.\n\n4. Now that she\'s enraptured by your fame, you can make your move.\n\nCHART OF BELIEVABLE-SOUNDING CHARACTERS\n\n Character - TV Show - Catchphrase\n\nStevie Judge - Judge\'s Chambers - \"You\'re out order!\"\n\nRichard P.Smedley III - Nuclear Family - \"Does not compute.\"\n\nBuddy Wemper - Tiffany/Tiffany\'s Kids/The Wempers - \"Oopsie poopsie!\"\n\nKyle Hooper (\"The Hoop\") - Salad Days - \"Yeeeeeeeoooow!\"\n\nDanny Hill/Booraloo - U.F. Uh-Oh - \"Here we go again.\"/\"Flurblebutt zagooo!\"\n</item>
+        <item>1. Acquire a few children\'s toys and strew them about your place.\n\n2. Flip through magazines until you find a print ad featuring a kid. Cut it out and insert it into a picture frame. Repeat the process until you\'ve got a few pictures of your \"kid.\"\n\nNOTE\n\nBe sure to cross out the product name because otherwise people will think you\'re creepy.\n\n3. Name your child, keeping in mind the latest fad is to steal one from a Jane Austen character for girls or use the last name of a nineteenth-century president for boys. If even pretending to give your fake kid a pansy name like that makes you want to vomit, there\'s never any shame in \"Junior.\"\n\n4. Advertise in your local paper or online that you\'re looking for an au pair for your young child. Be sure to list requirements like previous experience, references, and CPR certification so that it looks legitimate. Oh, try to slip \"big rack\" somewhere in there too.\n\n5. Invite prospective nannies over to your place to interview them and prominently display your pictures and kiddie toys. Explain that your child is at a lesson right now so you can really focus on getting to know her better. Since most au pairs wind up sleeping with the father anyway, maybe you\'ll find a go-getter who wants to get a head start.\n</item>
+        <item>1. Videotape the lottery pick from your local television broadcast and buy a lottery ticket using the same numbers the following day.\n\n2. Head to your local bar and bribe the bartender to play the recording. Don\'t offer more than twenty dollars since your chances of winning the lottery are about as good as winning the lottery.\n\n3. Stand next to your target, signal the bartender to cue up the tape, and pull out your ticket. Help your cause by showing her the ticket while saying: \"Here\'s to Rover\'s bone marrow transplant\" or something equally as clever.\n\n4. When the numbers are announced, start to hyperventilate and ask her to double-check your ticket. When she realizes it\'s a match, start to freak out. With any luck she\'ll be excited too and jump up and down, which is an added boobie bonus.\n\n5. In the middle of the euphoria suddenly act worried and recite the following: \"Great, now I\'ll be surrounded by people and women who only want me for my money. But you… you were talking to me before! Would you have dinner with me and help me figure out what to do with all this money?\"\n\n6. At dinner talk about all the charities you want to give to (see list below). Don\'t worry about paying for dinner: when the check comes, \"discover\" that you spent all your cash on the lottery ticket and, while chuckling, promise to pay her back.\n\n7. Have sex with her.\n\nHINT\n\nReal-sounding charities that\'ll make her panties drop\n\n• Feed the Cute Children\n\n• The Red Polka-Dot Cross\n\n• Designer Shoes for the Homeless\n\n• Athletic Police League\n\n• Save the Puppies. Horsies. No… Unicorns! Yeah, unicorns is better.\n</item>
+        <item>1. Apply makeup so that you look like an old man. Feel free to go a little nuts with the varicose veins but not like Emperor Palpatine nuts.\n\n2. Enter your local bar as an old man, approach a target, and ask for her name. After she offers it say, \"I knew it. You\'re the (her name) who can change everything… or spell our inevitable doom.\"\n\n3. Explain that you\'re on an urgent mission from the future. To prove it, point to one of your bros and say, loudly, that in exactly four seconds he\'s going to slap that guy, and then point to your less favorite bro.\n\n4. That\'s the cue for your bro to slap the crap out of your other bro. It\'s best not to explain the plan to the third bro beforehand because\n\nA. he might object.\n\nB. it\'s way funnier when he doesn\'t see it coming.\n\n5. Say that in a few minutes the young you from her time is going to enter and even though it might sound insane, in order to save the planet she needs to sleep with him. Tonight. In whatever way he wants. If she doesn\'t, he won\'t be able to find the solution to global warming that saves the human race.\n\n6. Make your exit before she has time to poke any holes in the logic (don\'t worry, there aren\'t any). Say you\'ve got to get back to the reality accelerator before the vortex closes or something sciencey like that to confuse her. Chicks do not understand science—that\'s just science.\n\n7. Remove your old-man makeup, reenter the bar, and wait for her to identify you. If she\'s slow on the uptake—and she will be if this play has any chance of success—announce to nobody in particular that your top secret research project is really stressing you out.\n\n8. Warm her globe.\n</item>
+        <item>1. Tell your target you\'re a vampire.\n\n2. Have sex.\n\nI realize this play is a little ill-formed, but vampires are hot right now, so it might work. Maybe you\'re like a vampire who has his own cooking show or custom cake shop? Those are also super en vogue. You could call your cake shop the Sweet Tooth. And on your business card, the little logo is a vampire\'s fangs biting into a designer cupcake. Hey, that\'d actually be pretty cute! Um, I mean stupid. It\'d be stupid. I don\'t care. Do it or don\'t do it, I really don\'t care. It was just a thought. Just chill out, man. Geez.\n</item>
+        <item>1. Don\'t shave for a few days so your stubble grows out. If you\'re not a particularly hirsute fellow, a little stippling with a Sharpie can create the same effect.\n\n2. Throw on a winter cap, a dirty sweater, and a world-weary scowl and hit up your local bar.\n\n3. Set up camp next to your target and— to no one in particular—start talking about the dangers of life at sea. Some key terms that can help legitimize you are \"rogue waves,\" \"international shipping lanes,\" and \"ghost pirates.\"\n\n4. When your target finally asks what you do, say that you\'re a fisherman and you\'re headed to the high seas tomorrow for several months.\n\n5. Once she takes the bait, you can lure her back to your place and give her the hook. Just to be crystal clear: I\'m talking about sex.\n\nWHY DOES THIS WORK?\n\nAt a primal level women like a man who can catch dinner using only his hands (and millions of dollars of trawling equipment, nets, sonar, etc.). They also like a man who laughs in the face of danger. A fisherman hits on both of these turn-ons, while his heading out to sea minimizes the chance of her friends discovering she got her ho on.\n</item>
+        <item>1. Get a monkey.\n\n2. Take your monkey to a local bar.\n\n3. Position yourself and your monkey near the target.\n\n4. When she asks about your monkey, explain that you broke him out of an animal testing facility. If she presses, just shake your head and mutter, \"Cosmetics.\"\n\n5. Complain that you can\'t go home because \"they\" will be looking for you. She\'ll take the hint and invite you back to her place. If she hesitates, lie and assure her that the monkey is housebroken.\n\n6. Slip the monkey some Benadryl so he won\'t be a distraction while you\'re getting it on with your target.\n</item>
+        <item>1. Identify a lifeguard babe at a pool or beach.\n\n2. Get in the water, put your face down, and stop breathing.\n\n3. If you\'re brought back to life, it\'ll hopefully be at the lips of the hot chick.\n\n4. If she saves your life, insist on taking her to dinner. Adrenaline over the day\'s events should carry you to the bedroom, where your trusted bro can film the whole thing.\n\nNOTE\n\nWhile the entire play hinges on her bringing you back to life, you should be aware that hot chick lifeguards are not traditionally hired for their CPR or other lifesaving skills. They\'re hired because they look good in a swimsuit with a whistle between their boobs. If she doesn\'t revive you, then your trusted bro can, though it should be noted that he can\'t be blamed— even from the afterlife—if he fails to do so because he\'s checking out the lifeguard babe because she looks good in a swimsuit with a whistle between her boobs.\n</item>
+        <item>1. Approach your target and compliment her on how fit she is. Ask her what she eats, then immediately apologize: you\'re just curious because you\'re a doctor who created your own miracle diet. Yep, you devised a way to eat whatever you want and still stay slim. Even an entire pint of fudge ripple? Even an entire pint of fudge ripple.\n\n2. Drunk on the idea that you hold the key to effortless weight loss, your target will inquire about your program. Tell her you can show her how it works but you\'ll need to see the contents of her refrigerator first.\n\n3. Back at her place explain how she can eat whatever she wants as long as she frenetically exercises at the same time.\n\n4. Explain the ins and outs of your plan over some frenetic ins and outs.\n\nCAUTION\n\nNames for your miracle diet program\n\n• Bangisystem\n\n• The Slutskins Diet\n\n• Mate Watchers\n\n• The Bone\n\n• Chew and Screw\n</item>
+        <item>1. Acquire a giant bubble.\n\n2. Get inside the giant bubble.\n\n3. Head to your local bar in the giant bubble.\n\n4. Tell your target that you\'re confined to life inside the giant bubble and that the worst part about living inside a giant bubble is never knowing the touch of a woman.\n\n5. \"Accidentally\" open the giant bubble and make contact with her arm. When you don\'t die immediately, freak out and thank her for curing you.\n\n6. Later invite her inside your giant bubble for some giant bubble sex.\n</item>
+        <item>1. Search college websites until you find a job listing for a sorority housemom. It might take several weeks to a lifetime but it\'ll be worth it.\n\n2. Dress up like an old lady. Think Barbara Bush, Betty White, or present-day Rod Stewart.\n\n3. Once you get the job, introduce yourself to \"your girls\" and immediately start talking up your wealthy son.\n\n4. Convince the chapter to invest in a high-tech security system complete with a closed-circuit video surveillance package—you know, for safety.\n\n5. Have your \"son\" come to visit one weekend, suddenly take ill and retreat to your room, and set \"him\" loose.\n\nWARNING!\n\nTo avoid getting immediately fired, you\'ll be expected to fulfill the duties of housemom.\n</item>
+        <item>1. Suit up.\n\n2. Find a back or side door in a location where a lot of potential targets walk by and create a boundary around it using velvet ropes and stanchions.\n\nQ: Where can I get velvet ropes and stanchions?\n\nA: They are readily available at your local movie theater or museum. Just go and take them. If anybody asks what you\'re doing, point to your clipboard, shrug, and say, \"Maintenance.\"\n\n3. Choose a live album featuring your favorite (living) recording artist and load it up in the boom box. Hit play and then \"guard\" the door.\n\n4. People will start lining up because nothing attracts people more than other people standing in line… especially when you\'re there telling them Bruce Springsteen is playing a private concert inside and maybe you\'ll let them in.\n\n5. Choose a target from the line, find out how desperately she wants to get inside, and see if you can work out an \"arrangement.\"\n</item>
+        <item>1. Dress as you think a lesbian would dress. Since there isn\'t a dress code, anything you choose will inevitably be offensive but it\'s the only way this play gets off the ground.\n\n2. Shave as closely as you can. Your face, I mean.\n\n3. Hit up a gay bar and approach the hottest chick you can find. After you make sure she\'s Adam\'s apple–free, ask if she wants to get out of there.\n\n4. Later, when you\'re fooling around, try to hide your maleness as long as possible. If and when the cat gets out of the bag, do your best to convince her it\'s synthetic. Try not to snap when she wonders why you\'d buy such a small one.\n</item>
+        <item>1. See if any towns around you have banned dancing and/or rock music. If you can\'t find one, catch a bus to a prairie state. Or Utah.\n\n2. Once you\'ve found a devil-weary community, start blasting rock-androll hits from the likes of Kenny Loggins while working on your dance moves in an empty flour mill. This will somehow anger the locals and, more important, turn on all the repressed country babes.\n\n3. Win a chicken race on a tractor.\n\n4. Organize a town dance where you can have your pick of the local ladies.\n</item>
+        <item>1. Hang out in a hospital waiting room.\n\n2. Choose a target from among the gathered friends and family.\n\n3. When and if a doctor delivers bad news, offer her your shoulder and other body parts to cry on.\n\n4. Donate lots of money to the hospital or something because, buddy, that was cold.\n\nQ : Um, aren\'t you the one who published the play?\n\nA: Shut up.\n</item>
+        <item>1. Choose a target.\n\n2. Write your name and number on a dollar bill and give it to her. Tell her to spend it—but make her promise to call you if she ever gets it back, because then the universe is clearly telling you to be together.\n\n3. Go to your bank, withdraw five thousand dollars in singles, and write your name and number on all of them.\n\n4. Repeat steps 1 and 2 until you\'ve circulated all your bills, and get ready for those phone calls.\n\nHINT\n\nIf you\'re worried because writing on American currency is illegal and you think that putting your name and number on so much money is stupid, then just use a bunch of counterfeit bills instead.\n</item>
+        <item>1. Win a local office and skyrocket to state representative by opposing the incumbent closest to death.\n\n2. Become governor and cling to a primarily populist agenda but throw a little pork to the fat cats by luring at least one major corporation into the state. Balance yourself politically by taking a hard-line stance on the death penalty while quietly cutting funding for executions. If the economy is up, take credit. If the economy is down, blame the legislature or, if you\'re in a border state, illegal immigrants.\n\n3. After two terms begin campaigning for president. Generate a progressive platform that panders to your party\'s extremes but can seamlessly convert to a more centrist stance after the primaries. Sink your money into Iowa and New Hampshire, make an appearance in South Carolina and Nevada, and set up camp in Missouri and New Jersey if you still need Super Tuesday to win the nomination.\n\n4. If you\'re not from the South, choose a running mate who is. It\'s also time to pick a theme song. Anything by Fleetwood Mac will do as long as it\'s not \"Little Lies,\" \"Landslide,\" or \"Rhiannon\" because that would just be weird.\n\n5. Visit a military base, throw out a first pitch without bouncing it over the plate, and do at least one photo shoot where you\'re wearing a construction helmet. Promise to run a clean campaign but have your running mate take potshots at the opponent with patronizingly down-home colloquialisms like \"that\'s not how we run things on the farm\" or \"that\'s not the Main Street I know\" or \"where I\'m from that\'s called cooking your grits before the gamecock warbles.\"\n\n6. Win an absolute majority of electoral votes or a Supreme Court runoff and confidently yet solemnly take the oath of office—this is a serious responsibility.\n\n7. Start banging chicks.\n\nWHY DOES THIS WORK?\n\nWomen are drawn to power and you can\'t get more powerful than the president without owning a major media conglomerate. While we all think of Kennedy and Clinton as the preeminent Oval Office lotharios, it was Franklin Roosevelt who really exploited the position. Not only did he feign polio and confine himself to a wheelchair in order to generate a \"wounded bird\" attraction to complement his commander-in-chief allure, but he was also the only president to serve more than two terms. The country hadn\'t seen that sort of commitment to booty since James \"Poke\" Polk.\n</item>
+        <item>1. Put on a hospital bracelet. If you don\'t have one, root around inside a hospital dumpster. You\'re bound to pick one up… among other things.\n\n2. Once you\'ve identified your target, flash your arm until she notices the bracelet. Say you don\'t want to talk about it and then immediately explain that you just gave one of your kidneys to your buddy. Wave to your bro and have him wave back.\n\nNOTE\n\nIf you\'re flying solo, just wave at any dude and he\'ll probably wave back. If he gives you a look like he wants to kick your ass, just tell your target it\'s the anesthesia.\n\n3. Tell her you\'ve been best friends since grade school and if he didn\'t make it, well… let\'s just say it was a no-brainer to kidney-five him. If you can choke back a few tears here, that will lubricate matters. Speaking of which…\n\n4. After you assure her that your remaining organs are in perfect working order, it\'s time to suggest making another donation…\n</item>
+        <item>1. Once you\'ve chosen your target, pretend to choke on a pretzel in front of her.\n\n2. After she performs the Heimlich or pats you on the back or even if she does absolutely nothing at all, spit out the pretzel and gasp for air. You can\'t go too big here.\n\n3. Grab her hands and explain how, now that she\'s saved your life, you\'re honor bound to stay by her side forever.\n\n4. Hover around until she can\'t take it anymore and tries to absolve you of the life debt. Tell her that won\'t work. The code of your people expressly states that you have to stay by her side until you save her life or she sleeps with you. Those are the rules.\n\n5. Hopefully she goes for it. If not, well, you\'ve always got what\'s left of your pretzel.\n</item>
+        <item>1. Put on your cloak and hood up.\n\n2. Approach your target and say, \"You\'ve already met the other two ghosts. Now it\'s time to visit a Christmas yet to come.\"\n\n3. Off her confusion pull out your day planner, smack yourself in the head, and say, \"Oh man, I\'m a day early. Daylight savings, prime meridian… what have you. My bad.\"\n\n4. Pull back your hood and explain the deal: tomorrow two ghosts will appear and show her Christmases of the past and present. Beg her to act surprised, because if those two jokers find out about this, you\'ll never hear the end of it.\n\n5. Curiosity will drive her to ask about her future. Be evasive and say she\'ll find out tomorrow night, but when she demands to know, take a deep breath and tell her she\'s going to die alone because she doesn\'t have enough casual sex with strangers. There. You said it. You could get in so much trouble for this breach of protocol.\n\n6. As she mulls over her lonely future, open your day planner and wonder aloud what you\'re going to do for the rest of the night. You\'re all dressed up with no one to haunt…\n\n7. Scrooge her. (Yeah, I did. Come on, it was right there!)\n</item>
+    </string-array>
+</resources>
