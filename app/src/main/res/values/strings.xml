@@ -13,4 +13,6 @@
     <string name="search">Search</string>
     <string name="search_plays">Search Plays</string>
     <string name="no_result">No Result</string>
+    <string name="share">Share</string>
+    <string name="share_play">Share play with</string>
 </resources>
