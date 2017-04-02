@@ -27,7 +27,6 @@ public class PlayTypeFragment extends Fragment {
     public PlayTypeFragment() {
     }
 
-    @SuppressWarnings("unused")
     public static PlayTypeFragment newInstance(int columnCount, ArrayList<Play> plays) {
         PlayTypeFragment fragment = new PlayTypeFragment();
         Bundle args = new Bundle();
@@ -52,7 +51,6 @@ public class PlayTypeFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_play_list, container, false);
 
-        // Set the adapter
         if (view instanceof RecyclerView) {
             Context context = view.getContext();
             RecyclerView recyclerView = (RecyclerView) view;

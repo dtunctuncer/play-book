@@ -35,6 +35,7 @@ public class PlayPresenter {
         String[] requirements = context.getResources().getStringArray(R.array.requirements);
         String[] bummers = context.getResources().getStringArray(R.array.bummers);
         String[] plays = context.getResources().getStringArray(R.array.plays);
+        String[] time = context.getResources().getStringArray(R.array.time);
         List<Play> playList = new ArrayList<>();
         ArrayList<Play> beginnerPlayList = new ArrayList<>();
         ArrayList<Play> amateurPlayList = new ArrayList<>();
@@ -49,6 +50,7 @@ public class PlayPresenter {
             play.setRequirements(requirements[i]);
             play.setBummers(bummers[i]);
             play.setPlay(plays[i]);
+            play.setTime(time[i]);
             play.setType(getPlayTypeByName(titles[i]));
             playList.add(play);
         }

@@ -5,4 +5,12 @@
     <string name="amateur">Amateur</string>
     <string name="warrior">Weekend Warrior</string>
     <string name="advanced">Advanced</string>
+    <string name="success_rate">Success Rate</string>
+    <string name="attracts">Attracts</string>
+    <string name="requirements">Requirements</string>
+    <string name="bummers">Bummers</string>
+    <string name="prep_time">Prep Time</string>
+    <string name="search">Search</string>
+    <string name="search_plays">Search Plays</string>
+    <string name="no_result">No Result</string>
 </resources>
