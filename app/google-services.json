@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "207284428838",
+    "project_id": "the-play-book"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207284428838:android:a70597d3c6398564",
+        "android_client_info": {
+          "package_name": "com.dtunctuncer.playbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbozfpuRawqYztbb0wxA4SYKB5x3KNcO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-80995594-4"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

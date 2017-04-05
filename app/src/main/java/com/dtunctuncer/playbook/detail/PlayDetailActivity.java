@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 import com.dtunctuncer.playbook.R;
 import com.dtunctuncer.playbook.models.Play;
+import com.dtunctuncer.playbook.utils.analytics.AnalyticsUtils;
 import com.dtunctuncer.playbook.utils.widgets.PlayTextView;
 
 import butterknife.BindView;
@@ -46,6 +47,7 @@ public class PlayDetailActivity extends AppCompatActivity {
         play = getIntent().getParcelableExtra(ARG_PLAY);
 
         if (play != null) {
+            AnalyticsUtils.trackEvent("PLAY", "Open Play", "Open Play Title : " + play.getName());
             title.setText(play.getName());
             playTextView.setText(play.getPlay());
             success.setText(play.getSucces().replace("%%", "%"));
