@@ -3,7 +3,7 @@ package com.dtunctuncer.playbook.core;
 public enum PlayType {
     NONE,
     BEGINNER,
-    AMETEUR,
-    WEEKEND_WARIOR,
+    AMATEUR,
+    WEEKEND_WARRIOR,
     ADVANCED
 }

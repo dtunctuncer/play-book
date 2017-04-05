@@ -98,9 +98,9 @@ public class PlayActivity extends AppCompatActivity implements IPlayView, OnList
         switch (type) {
             case BEGINNER:
                 return R.string.beginner;
-            case AMETEUR:
+            case AMATEUR:
                 return R.string.amateur;
-            case WEEKEND_WARIOR:
+            case WEEKEND_WARRIOR:
                 return R.string.warrior;
             case ADVANCED:
                 return R.string.advanced;

@@ -12,9 +12,9 @@ import java.util.List;
 import javax.inject.Inject;
 
 import static com.dtunctuncer.playbook.core.PlayType.ADVANCED;
-import static com.dtunctuncer.playbook.core.PlayType.AMETEUR;
+import static com.dtunctuncer.playbook.core.PlayType.AMATEUR;
 import static com.dtunctuncer.playbook.core.PlayType.BEGINNER;
-import static com.dtunctuncer.playbook.core.PlayType.WEEKEND_WARIOR;
+import static com.dtunctuncer.playbook.core.PlayType.WEEKEND_WARRIOR;
 
 public class PlayPresenter {
 
@@ -60,10 +60,10 @@ public class PlayPresenter {
                 case BEGINNER:
                     beginnerPlayList.add(play);
                     break;
-                case AMETEUR:
+                case AMATEUR:
                     amateurPlayList.add(play);
                     break;
-                case WEEKEND_WARIOR:
+                case WEEKEND_WARRIOR:
                     warriorPlayList.add(play);
                     break;
                 case ADVANCED:
@@ -73,8 +73,8 @@ public class PlayPresenter {
         }
 
         view.addTab(BEGINNER,beginnerPlayList);
-        view.addTab(AMETEUR,amateurPlayList);
-        view.addTab(WEEKEND_WARIOR,warriorPlayList);
+        view.addTab(AMATEUR, amateurPlayList);
+        view.addTab(WEEKEND_WARRIOR, warriorPlayList);
         view.addTab(ADVANCED,advancedPlayList);
         view.showTabs();
     }
@@ -192,9 +192,9 @@ public class PlayPresenter {
         if (getBeginnerPlays().contains(name))
             return BEGINNER;
         else if (getAmateurPlays().contains(name))
-            return AMETEUR;
+            return AMATEUR;
         else if (getWarriorPlays().contains(name))
-            return PlayType.WEEKEND_WARIOR;
+            return PlayType.WEEKEND_WARRIOR;
         else if (getAdvancedPlays().contains(name))
             return PlayType.ADVANCED;
         return PlayType.NONE;

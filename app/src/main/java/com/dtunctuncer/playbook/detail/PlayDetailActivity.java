@@ -2,6 +2,8 @@ package com.dtunctuncer.playbook.detail;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
+import android.support.v4.widget.NestedScrollView;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
@@ -29,6 +31,10 @@ public class PlayDetailActivity extends AppCompatActivity {
     TextView prepTime;
     @BindView(R.id.bummers)
     TextView bummers;
+    @BindView(R.id.scrollView)
+    NestedScrollView scrollView;
+    @BindView(R.id.share)
+    FloatingActionButton share;
 
     private Play play;
 
@@ -47,6 +53,17 @@ public class PlayDetailActivity extends AppCompatActivity {
             requirements.setText(play.getRequirements());
             prepTime.setText(play.getTime());
             bummers.setText(play.getBummers());
+
+
+            scrollView.setOnScrollChangeListener(new NestedScrollView.OnScrollChangeListener() {
+                @Override
+                public void onScrollChange(NestedScrollView v, int scrollX, int scrollY, int oldScrollX, int oldScrollY) {
+                    if (scrollY > oldScrollY)
+                        share.hide();
+                    else
+                        share.show();
+                }
+            });
         }
     }
 
